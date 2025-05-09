@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Ruby-Theme
+description: "*Ruby-theme* is a modern and clean Jekyll theme."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
