@@ -1,5 +1,6 @@
 ---
 title: Ruby
+layout: default
 ---
 
 # Ruby-theme
